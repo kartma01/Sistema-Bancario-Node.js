@@ -117,4 +117,8 @@ Durante o desenvolvimento deste projeto foram praticados conceitos como:
 João Lucas Muniz Wietchesky de Souza
 
 GitHub: https://github.com/kartma01
+<<<<<<< HEAD
 LinkedIn: https://www.linkedin.com/in/joao-lucas-wietchesky/
+=======
+LinkedIn: https://www.linkedin.com/in/joao-lucas-wietchesky/
+>>>>>>> 500515bdcab510420a35956ba5c63688e5fe323e
