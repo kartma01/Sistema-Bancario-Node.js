@@ -1,4 +1,4 @@
-import menuConta from "./menuConta.js";
+import menuConta from "./menuConta";
 import rl from "../services/rl";
 import { Cliente } from "../models/modeloCliente.js";
 
